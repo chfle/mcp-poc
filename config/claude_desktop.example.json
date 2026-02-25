@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "personal-mcp": {
+      "command": "/ABSOLUTE/PATH/TO/venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/TO/server.py"]
+    }
+  }
+}

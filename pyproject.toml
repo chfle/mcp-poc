@@ -1,0 +1,6 @@
+[project]
+name = "personal-mcp-starter"
+version = "0.1.0"
+description = "A personal, local MCP server built with FastMCP"
+requires-python = ">=3.11"
+dependencies = ["fastmcp>=2.0"]
